@@ -24,6 +24,11 @@ I focused on identifying which demographics are more or less likely to follow th
 - This group also had higher annual healthcare contributions and claims
 - Male patients aged 50–60 carried the highest financial burden
 
+## 📄 Final Report
+
+[👉 Click here to view the full project PDF](https://github.com/SableB/medication-adherence-visual-analysis/blob/main/Medication%20Adherence.pdf)
+
+
 ## 📂 Data Source
 Dataset from Mendeley Data:  
 🔗 [Link to Dataset](https://data.mendeley.com/datasets/zkp7sbbx64/2)
